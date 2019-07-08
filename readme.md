@@ -6,3 +6,7 @@ welcome to fablab assuit , the best :blush: this is very good
 - laser cutter
 
 fablab assuit is very nice
+
+- git add
+- git commit-m"nnn"
+- git push

@@ -19,4 +19,4 @@ fablab assuit is very nice
 - saoda
 - nona
 
-![alt text][logo]
+![alt text](piture.png)

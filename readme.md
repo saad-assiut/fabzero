@@ -20,3 +20,6 @@ fablab assuit is very nice
 - nona
 
 ![alt text](piture.png)
+
+[I'm an inline-style link](Markdown Cheatsheet · adam-p_markdown-here Wiki.html)
+

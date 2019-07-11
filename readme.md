@@ -43,4 +43,4 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
-#        STEM
+# STEM

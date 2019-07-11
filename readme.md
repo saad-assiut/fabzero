@@ -39,3 +39,4 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+Let's rename \*our-new-project\* to \*our-old-project\*.

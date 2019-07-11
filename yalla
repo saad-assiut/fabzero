@@ -1,0 +1,8 @@
+echo start updating documantation
+
+git pull
+git add . 
+git connit -m"yalla we go"
+git push
+echo i am done
+

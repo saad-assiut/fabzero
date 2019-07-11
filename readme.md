@@ -1,4 +1,4 @@
-[alt text][index1]
+[alt text][index1.jpeg]
 # welcome to fablab assuit
 
 welcome to fablab assuit , the best :blush: this is very good

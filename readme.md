@@ -39,3 +39,6 @@ Combined emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this.~~
 
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
